@@ -106,8 +106,7 @@ bash
 - Ofrece la opción de reiniciar el juego eliminando los datos existentes.
 
 ## AUTOR
- [<img src="https://avatars.githubusercontent.com/u/135678125?v=4" width=115><br><sub>Jefernee Ruiz</sub>](https://github.com/Jefernee)  
-
+ [<img src="">]
 
 
 ---
